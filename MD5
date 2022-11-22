@@ -1,0 +1,15 @@
+ddec5753966ac819bb4d54ddfd6e8c11 *DESCRIPTION
+b8fea9dc5a8e831e488c060acee1fb2b *NAMESPACE
+840753384c595303122f086785d07bdc *NEWS.md
+0a114f2ad17cc38a2db097d45dd90940 *R/fetch_googleanalytics.R
+1a16808cefb5c0a4333c49053a17e6cd *R/my_googleanalytics_data.R
+0ea564997d4dbe6b601dfc742a931940 *README.md
+faa7af1f7e33a44b658b735e629d90e6 *build/vignette.rds
+f31df378a21a9ce7889ff1f47f13b78d *data/my_googleanalytics_data.RData
+4a194f606e56f133ea244ea7e81552ff *inst/doc/tutorial.R
+ca038a29995fe563b673d62fe460111d *inst/doc/tutorial.Rmd
+74806b1da14081eba76591eca3c03bae *inst/doc/tutorial.html
+66eb0ea4fdcfd8d07d6c50d8e6817591 *man/fetch_googleanalytics.Rd
+82a21eb287cac526ffbd2e2679f953b8 *man/my_googleanalytics_data.Rd
+f31df378a21a9ce7889ff1f47f13b78d *vignettes/my_googleanalytics_data.RData
+ca038a29995fe563b673d62fe460111d *vignettes/tutorial.Rmd
